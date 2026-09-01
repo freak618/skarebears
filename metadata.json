@@ -1,0 +1,8 @@
+{
+  "name": "skarebears ",
+  "description": "An application to generate unique streetwear concepts featuring morbid bears",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
